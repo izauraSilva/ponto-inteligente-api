@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b5f0275-064a-46ea-a7dd-3e61e64703c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/controller/EmpresaControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/repository/EmpresaRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/repository/FuncionarioRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/repository/LancamentoRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/services/EmpresaServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/services/FuncionarioServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/services/LancamentoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/utils/PasswordUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/izatec/pontointeligente/api/PontoInteligenteApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WRzJmCM1ksHyZmNSiImOTjf6fR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/test/com/izatec/pontointeligente/api/services" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Izatec-Projetos\src\main\java\test\com\izatec\pontointeligente\api\services" />
+      <recent name="C:\Izatec-Projetos\src\main\java\test\com\izatec\pontointeligente\api\utils" />
+      <recent name="C:\Izatec-Projetos\src\main\java\test\com\izatec\pontointeligente\api\controller" />
+      <recent name="C:\Izatec-Projetos\src\main\java\test\com\izatec\pontointeligente\api\repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Izatec-Projetos\src\main\java" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5f0275-064a-46ea-a7dd-3e61e64703c8" name="Default Changelist" comment="" />
+      <created>1579127125963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579127125963</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add package test">
+      <created>1579199666857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579199666857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add package test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add package test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1579200946327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579200946327" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1579200181813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579200181813" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579199796705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579199796705" />
+  </component>
+</project>
